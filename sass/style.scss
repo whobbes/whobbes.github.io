@@ -1,5 +1,6 @@
 //Variables
 $primary-color: #f0ad72;
+$primary-color-focus: #f09d54;
 $primary-color-hover: #ffbf81;
 $background-color: #2b2d34;
 $almost-white: #f7f7f8;
@@ -34,6 +35,14 @@ body {
 
 a {
 	color: $primary-color;
+}
+
+a:hover {
+  	color: $primary-color-focus;
+}
+
+a:visited {
+  	color: $primary-color;
 }
 
 h1 {
