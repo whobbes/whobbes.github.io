@@ -8,3 +8,8 @@ $("#landing").on('click', 'a[href^="#"]', function (event) {
         scrollTop: $($.attr(this, 'href')).offset().top
     }, 1000);
 });
+
+// Auto-close menu
+$('.navbar-collapse a').click(function(){
+    $(".navbar-collapse").collapse('hide');
+});
