@@ -383,7 +383,11 @@ li.nav-item .btn-white {
     padding: 0rem;
     padding-bottom: 1rem;
     margin-bottom: 0rem;
-    border-radius: .3rem; }
+    border-radius: .3rem;
+    transition: transform .2s;}
+  .gallery-4 .box:hover{
+    transform: scale(1.05); 
+  }
   .gallery-4 .col-gallery {
     margin-top: 2rem;
     margin-bottom: 0rem; }
