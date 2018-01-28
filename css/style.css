@@ -5,7 +5,7 @@ body {
   color: #46484a; }
 
 a, a:hover, a:visited {
-  color: rgba(0, 0, 0, 0.4);}
+  color: rgba(0, 0, 0, 0.4); }
 
 h1 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -265,20 +265,12 @@ li.nav-item .btn-white {
       border: 0.15rem solid #696b6e;
       color: #fff; }
 
-.content-1, .content-2, .content-4 {
-  background: #fff;
-  padding-bottom: 0.1rem; }
-  .content-1 .container, .content-2 .container, .content-4 .container {
-    margin: 5rem auto; }
-  .content-1 .full-width, .content-2 .full-width, .content-4 .full-width {
-    width: 100%; }
-
-.contact-1, .contact-2 {
+.contact-1 {
   padding: 0 0 5rem 0; }
-  .contact-1 .contact-details, .contact-2 .contact-details {
+  .contact-1 .contact-details {
     padding-top: 5rem;
     padding-bottom: 1rem; }
-  .contact-1 h3, .contact-2 h3 {
+  .contact-1 h3 {
     margin-bottom: 0; }
 
 .gallery-4 {
