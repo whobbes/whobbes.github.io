@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Wallace&#39;s Blog</title>
-    <link>whobbes.com/categories/</link>
-    <description>Recent content in Categories on Wallace&#39;s Blog</description>
+    <title>Categories on Whobbes.com</title>
+    <link>https://whobbes.com/blog/categories/</link>
+    <description>Recent content in Categories on Whobbes.com</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
     
-	<atom:link href="whobbes.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://whobbes.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

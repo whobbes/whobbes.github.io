@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wallace&#39;s Blog</title>
-    <link>whobbes.com/</link>
-    <description>Recent content on Wallace&#39;s Blog</description>
+    <title>Whobbes.com</title>
+    <link>https://whobbes.com/blog/</link>
+    <description>Recent content on Whobbes.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Feb 2018 21:27:36 +0000</lastBuildDate>
+    <language>en-gb</language>
     
-	<atom:link href="whobbes.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://whobbes.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>First</title>
-      <link>whobbes.com/posts/first/</link>
-      <pubDate>Fri, 02 Feb 2018 21:27:36 +0000</pubDate>
-      
-      <guid>whobbes.com/posts/first/</guid>
-      <description>Hello world</description>
-    </item>
     
   </channel>
 </rss>

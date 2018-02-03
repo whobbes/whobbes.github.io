@@ -3,29 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>whobbes.com/posts/first/</loc>
-    <lastmod>2018-02-02T21:27:36+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>whobbes.com/categories/</loc>
+    <loc>https://whobbes.com/blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>whobbes.com/posts/</loc>
-    <lastmod>2018-02-02T21:27:36+00:00</lastmod>
+    <loc>https://whobbes.com/blog/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>whobbes.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>whobbes.com/</loc>
-    <lastmod>2018-02-02T21:27:36+00:00</lastmod>
+    <loc>https://whobbes.com/blog/</loc>
     <priority>0</priority>
   </url>
   
