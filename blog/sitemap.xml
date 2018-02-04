@@ -3,17 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://whobbes.com/blog/posts/weapons_math_destruction/</loc>
+    <lastmod>2018-02-03T21:28:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whobbes.com/blog/tags/book/</loc>
+    <lastmod>2018-02-03T21:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://whobbes.com/blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://whobbes.com/blog/tags/data-science/</loc>
+    <lastmod>2018-02-03T21:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://whobbes.com/blog/posts/</loc>
+    <lastmod>2018-02-03T21:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://whobbes.com/blog/tags/review/</loc>
+    <lastmod>2018-02-03T21:28:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://whobbes.com/blog/tags/</loc>
+    <lastmod>2018-02-03T21:28:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://whobbes.com/blog/</loc>
+    <lastmod>2018-02-03T21:28:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Whobbes.com</title>
+    <title>Tags on Whobbes.com/blog</title>
     <link>https://whobbes.com/blog/tags/</link>
-    <description>Recent content in Tags on Whobbes.com</description>
+    <description>Recent content in Tags on Whobbes.com/blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 03 Feb 2018 21:28:28 +0000</lastBuildDate>
     
 	<atom:link href="https://whobbes.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book</title>
+      <link>https://whobbes.com/blog/tags/book/</link>
+      <pubDate>Sat, 03 Feb 2018 21:28:28 +0000</pubDate>
+      
+      <guid>https://whobbes.com/blog/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://whobbes.com/blog/tags/data-science/</link>
+      <pubDate>Sat, 03 Feb 2018 21:28:28 +0000</pubDate>
+      
+      <guid>https://whobbes.com/blog/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>https://whobbes.com/blog/tags/review/</link>
+      <pubDate>Sat, 03 Feb 2018 21:28:28 +0000</pubDate>
+      
+      <guid>https://whobbes.com/blog/tags/review/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
