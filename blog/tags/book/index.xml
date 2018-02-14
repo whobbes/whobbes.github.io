@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book on Whobbes.com/blog</title>
-    <link>http://whobbes.com/blog/tags/book/</link>
+    <link>whobbes.com/blog/tags/book/</link>
     <description>Recent content in Book on Whobbes.com/blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
     <lastBuildDate>Sat, 03 Feb 2018 21:28:28 +0000</lastBuildDate>
     
-	<atom:link href="http://whobbes.com/blog/tags/book/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="whobbes.com/blog/tags/book/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Weapons of Maths Destruction</title>
-      <link>http://whobbes.com/blog/posts/weapons_math_destruction/</link>
+      <link>whobbes.com/blog/posts/weapons_math_destruction/</link>
       <pubDate>Sat, 03 Feb 2018 21:28:28 +0000</pubDate>
       
-      <guid>http://whobbes.com/blog/posts/weapons_math_destruction/</guid>
+      <guid>whobbes.com/blog/posts/weapons_math_destruction/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
     
-        &lt;img src=&#34;http://whobbes.com/blog/images/book_weapons_maths_destructions.jpg&#34; width=&#34;50&#34; /&gt;
+        &lt;img src=&#34;whobbes.com/blog/images/book_weapons_maths_destructions.jpg&#34; width=&#34;50&#34; /&gt;
     
     
 &lt;/figure&gt;
