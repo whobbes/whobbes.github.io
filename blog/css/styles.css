@@ -260,6 +260,30 @@ a {
   }
 }
 
+.sml-image, figure.sml img, img[src*="sml"] {
+  width: 40%;
+  box-shadow: 0 3px 3px #bbbbbb;
+}
+
+@supports (width: 100vw) {
+  .sml-image, figure.sml img, img[src*="sml"] {
+    width: 300px;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -350px;
+    margin-right: -350px;
+  }
+  @media only screen and (max-width: 800px) {
+    .sml-image, figure.sml img, img[src*="sml"] {
+      width: 40%;
+      left: 0;
+      right: 0;
+      margin: 0;
+    }
+  }
+}
+
 .float-image, figure.float img, img[src*="float"] {
   width: 300px;
   float: left;
