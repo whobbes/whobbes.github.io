@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://whobbes.com/blog/posts/the_golden_age/</loc>
+    <lastmod>2018-06-29T21:07:01+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://whobbes.com/blog/posts/weapons_math_destruction/</loc>
     <lastmod>2018-02-03T21:28:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://whobbes.com/blog/tags/book/</loc>
-    <lastmod>2018-02-03T21:28:28+00:00</lastmod>
+    <lastmod>2018-06-29T21:07:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -26,25 +31,31 @@
   
   <url>
     <loc>http://whobbes.com/blog/posts/</loc>
-    <lastmod>2018-02-03T21:28:28+00:00</lastmod>
+    <lastmod>2018-06-29T21:07:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://whobbes.com/blog/tags/review/</loc>
-    <lastmod>2018-02-03T21:28:28+00:00</lastmod>
+    <lastmod>2018-06-29T21:07:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://whobbes.com/blog/tags/science-fiction/</loc>
+    <lastmod>2018-06-29T21:07:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://whobbes.com/blog/tags/</loc>
-    <lastmod>2018-02-03T21:28:28+00:00</lastmod>
+    <lastmod>2018-06-29T21:07:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://whobbes.com/blog/</loc>
-    <lastmod>2018-02-03T21:28:28+00:00</lastmod>
+    <lastmod>2018-06-29T21:07:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   
