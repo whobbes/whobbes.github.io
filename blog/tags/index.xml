@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 29 Jun 2018 21:07:01 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 21:01:12 +0100</lastBuildDate>
     
 	<atom:link href="http://whobbes.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Book</title>
       <link>http://whobbes.com/blog/tags/book/</link>
-      <pubDate>Fri, 29 Jun 2018 21:07:01 +0200</pubDate>
+      <pubDate>Thu, 27 Sep 2018 21:01:12 +0100</pubDate>
       
       <guid>http://whobbes.com/blog/tags/book/</guid>
       <description></description>
@@ -31,9 +31,18 @@
     </item>
     
     <item>
+      <title>Psychology</title>
+      <link>http://whobbes.com/blog/tags/psychology/</link>
+      <pubDate>Thu, 27 Sep 2018 21:01:12 +0100</pubDate>
+      
+      <guid>http://whobbes.com/blog/tags/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Review</title>
       <link>http://whobbes.com/blog/tags/review/</link>
-      <pubDate>Fri, 29 Jun 2018 21:07:01 +0200</pubDate>
+      <pubDate>Thu, 27 Sep 2018 21:01:12 +0100</pubDate>
       
       <guid>http://whobbes.com/blog/tags/review/</guid>
       <description></description>
