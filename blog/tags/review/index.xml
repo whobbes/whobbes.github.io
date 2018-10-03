@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 27 Sep 2018 21:01:12 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 03 Oct 2018 21:31:57 +0100</lastBuildDate>
     
 	<atom:link href="http://whobbes.com/blog/tags/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to create a mind</title>
+      <link>http://whobbes.com/blog/posts/how_to_create_a_mind/</link>
+      <pubDate>Wed, 03 Oct 2018 21:31:57 +0100</pubDate>
+      
+      <guid>http://whobbes.com/blog/posts/how_to_create_a_mind/</guid>
+      <description>&lt;figure class=&#34;sml&#34;&gt;
+    
+        &lt;img src=&#34;http://whobbes.com/blog/images/book_how_to_create_a_mind.jpg&#34; width=&#34;50&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Book written in 2012  by Ray Kurzweil famous futurist but also CS engineer.
+Its main subject is how we could create a machine that replicate our brain, and then make it better. By touching such an important topic - the final frontier - he also reflect on philosophy and ethics in a simple and direct way. The information is very accessible and also quite general but nice example from his career are mentioned.  Overall, I found the book very inspiring and a must read.&lt;/p&gt;
+
+&lt;p&gt;&lt;kbd&gt;92%&lt;/kbd&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Willpower</title>
