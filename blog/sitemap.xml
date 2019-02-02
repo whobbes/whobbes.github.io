@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://whobbes.com/blog/posts/zen_and_motorcycle/</loc>
+    <lastmod>2019-02-02T11:58:50+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://whobbes.com/blog/posts/how_to_create_a_mind/</loc>
     <lastmod>2018-10-03T21:31:57+01:00</lastmod>
   </url>
@@ -24,7 +29,7 @@
   
   <url>
     <loc>http://whobbes.com/blog/tags/book/</loc>
-    <lastmod>2018-10-03T21:31:57+01:00</lastmod>
+    <lastmod>2019-02-02T11:58:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -46,8 +51,14 @@
   </url>
   
   <url>
+    <loc>http://whobbes.com/blog/tags/engineering/</loc>
+    <lastmod>2019-02-02T11:58:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://whobbes.com/blog/posts/</loc>
-    <lastmod>2018-10-03T21:31:57+01:00</lastmod>
+    <lastmod>2019-02-02T11:58:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,7 +70,7 @@
   
   <url>
     <loc>http://whobbes.com/blog/tags/review/</loc>
-    <lastmod>2018-10-03T21:31:57+01:00</lastmod>
+    <lastmod>2019-02-02T11:58:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -71,13 +82,13 @@
   
   <url>
     <loc>http://whobbes.com/blog/tags/</loc>
-    <lastmod>2018-10-03T21:31:57+01:00</lastmod>
+    <lastmod>2019-02-02T11:58:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://whobbes.com/blog/</loc>
-    <lastmod>2018-10-03T21:31:57+01:00</lastmod>
+    <lastmod>2019-02-02T11:58:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
