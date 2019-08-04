@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 13 Apr 2019 13:21:30 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2019 12:37:02 +0100</lastBuildDate>
     
 	<atom:link href="http://whobbes.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Design of Everyday Things</title>
+      <link>http://whobbes.com/blog/posts/design_everyday_things/</link>
+      <pubDate>Sun, 04 Aug 2019 12:37:02 +0100</pubDate>
+      
+      <guid>http://whobbes.com/blog/posts/design_everyday_things/</guid>
+      <description>&lt;figure class=&#34;sml&#34;&gt;
+    
+        &lt;img src=&#34;http://whobbes.com/blog/images/book_design_everyday_things.jpg&#34; width=&#34;50&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;This book by Donald A. Norman is part of the classics of design with a first edition in 1988 and a updated version in 2013.&lt;/p&gt;
+
+&lt;p&gt;Many strong concepts such as affordances and signifiers are defined here and the point of view is very much oriented towards function over form,  which can be a debatable stance. The emphasis of the book is that simple interactions are difficult to create and one way to to so is to embrace user-centered design.&lt;/p&gt;
+
+&lt;p&gt;The book closes on an discussion of the inclusion of emotions in the process; Dan explored it further in a &lt;a href=&#34;google.com&#34;&gt;TED talk&lt;/a&gt;. Every day objects will change slowly and happiness feeling while using the item is important. If one is happy then brain goes towards creative mode, if one is anxious and concentrated brain only focus on current task, exploration vs. exploitation, ideation vs. execution.&lt;/p&gt;
+
+&lt;p&gt;&lt;kbd&gt;88%&lt;/kbd&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The Pragmatic Programmer</title>

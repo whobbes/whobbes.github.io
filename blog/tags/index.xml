@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 13 Apr 2019 13:21:30 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2019 12:37:02 +0100</lastBuildDate>
     
 	<atom:link href="http://whobbes.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Book</title>
       <link>http://whobbes.com/blog/tags/book/</link>
-      <pubDate>Sat, 13 Apr 2019 13:21:30 +0100</pubDate>
+      <pubDate>Sun, 04 Aug 2019 12:37:02 +0100</pubDate>
       
       <guid>http://whobbes.com/blog/tags/book/</guid>
       <description></description>
@@ -36,6 +36,15 @@
       <pubDate>Sat, 03 Feb 2018 21:28:28 +0000</pubDate>
       
       <guid>http://whobbes.com/blog/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>http://whobbes.com/blog/tags/design/</link>
+      <pubDate>Sun, 04 Aug 2019 12:37:02 +0100</pubDate>
+      
+      <guid>http://whobbes.com/blog/tags/design/</guid>
       <description></description>
     </item>
     
@@ -69,7 +78,7 @@
     <item>
       <title>Review</title>
       <link>http://whobbes.com/blog/tags/review/</link>
-      <pubDate>Sat, 13 Apr 2019 13:21:30 +0100</pubDate>
+      <pubDate>Sun, 04 Aug 2019 12:37:02 +0100</pubDate>
       
       <guid>http://whobbes.com/blog/tags/review/</guid>
       <description></description>
