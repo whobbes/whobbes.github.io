@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Whobbes.com/blog</title>
@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 04 Aug 2019 12:37:02 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2019 22:22:35 +0000</lastBuildDate>
     
 	<atom:link href="http://whobbes.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Drive</title>
+      <link>http://whobbes.com/blog/posts/drive/</link>
+      <pubDate>Fri, 15 Nov 2019 22:22:35 +0000</pubDate>
+      
+      <guid>http://whobbes.com/blog/posts/drive/</guid>
+      <description>&lt;figure class=&#34;sml&#34;&gt;
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_drive.jpg&#34; width=&#34;50&#34;/&gt; 
+&lt;/figure&gt;
+
+
+&lt;p&gt;Book by Daniel H. Pink on motivation. It is a bit pop science, yet the ideas are powerful. It describes very well the recent shift in work paradigm that is happening in the tech industry. It helps focusing on what is important and carving a way to leading a fullfilling life.&lt;/p&gt;
+
+&lt;p&gt;&lt;kbd&gt;76%&lt;/kbd&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The Design of Everyday Things</title>
@@ -19,10 +35,7 @@
       
       <guid>http://whobbes.com/blog/posts/design_everyday_things/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    
-        &lt;img src=&#34;http://whobbes.com/blog/images/book_design_everyday_things.jpg&#34; width=&#34;50&#34; /&gt;
-    
-    
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_design_everyday_things.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 
@@ -32,9 +45,7 @@
 
 &lt;p&gt;The book closes on an discussion of the inclusion of emotions in the process; Dan explored it further in a &lt;a href=&#34;google.com&#34;&gt;TED talk&lt;/a&gt;. Every day objects will change slowly and happiness feeling while using the item is important. If one is happy then brain goes towards creative mode, if one is anxious and concentrated brain only focus on current task, exploration vs. exploitation, ideation vs. execution.&lt;/p&gt;
 
-&lt;p&gt;&lt;kbd&gt;88%&lt;/kbd&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;kbd&gt;88%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,18 +55,13 @@
       
       <guid>http://whobbes.com/blog/posts/the_pragmatic_programmer/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    
-        &lt;img src=&#34;http://whobbes.com/blog/images/book_pragmatic_programmer.jpg&#34; width=&#34;50&#34; /&gt;
-    
-    
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_pragmatic_programmer.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 
 &lt;p&gt;Book by Andy Hunt and Dave Thomas about programming written in 1999 and part of the classics of CS. It contains some good ideas, some obvious and some outdated. Overall very good, no ground-breaking but good reminder to focus on value and quality.&lt;/p&gt;
 
-&lt;p&gt;&lt;kbd&gt;76%&lt;/kbd&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;kbd&gt;76%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -65,10 +71,7 @@
       
       <guid>http://whobbes.com/blog/posts/three_body_problem/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    
-        &lt;img src=&#34;http://whobbes.com/blog/images/book_three_body_problem.jpg&#34; width=&#34;50&#34; /&gt;
-    
-    
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_three_body_problem.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 
@@ -77,9 +80,7 @@ Inspiring possible future, based on plausible advances in Technology and Science
 
 &lt;p&gt;&lt;kbd&gt;91%&lt;/kbd&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;SPOILER ALERT: what follows reveal the main secrets and ideas of the saga&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;em&gt;SPOILER ALERT: what follows reveal the main secrets and ideas of the saga&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -89,10 +90,7 @@ Inspiring possible future, based on plausible advances in Technology and Science
       
       <guid>http://whobbes.com/blog/posts/zen_and_motorcycle/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    
-        &lt;img src=&#34;http://whobbes.com/blog/images/book_zen_and_the_art_of_motorcycle_maintenance.jpg&#34; width=&#34;50&#34; /&gt;
-    
-    
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_zen_and_the_art_of_motorcycle_maintenance.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 
@@ -102,9 +100,7 @@ Inspiring possible future, based on plausible advances in Technology and Science
 
 &lt;p&gt;I really got hooked by the start of the book, his unique style and questioning of fundamental values. The presentation of the Quality thesis is the pinnacle of the piece. The last third of the book is more obscure and go on about Greek philosophy where it feels like the whole debate is made on play on words and definition rather than actual advancement of the mind.&lt;/p&gt;
 
-&lt;p&gt;&lt;kbd&gt;85%&lt;/kbd&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;kbd&gt;85%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -114,19 +110,14 @@ Inspiring possible future, based on plausible advances in Technology and Science
       
       <guid>http://whobbes.com/blog/posts/how_to_create_a_mind/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    
-        &lt;img src=&#34;http://whobbes.com/blog/images/book_how_to_create_a_mind.jpg&#34; width=&#34;50&#34; /&gt;
-    
-    
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_how_to_create_a_mind.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 
 &lt;p&gt;Book written in 2012  by Ray Kurzweil famous futurist but also CS engineer.
 Its main subject is how we could create a machine that replicate our brain, and then make it better. By touching such an important topic - the final frontier - he also reflect on philosophy and ethics in a simple and direct way. The information is very accessible and also quite general but nice example from his career are mentioned.  Overall, I found the book very inspiring and a must read.&lt;/p&gt;
 
-&lt;p&gt;&lt;kbd&gt;92%&lt;/kbd&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;kbd&gt;92%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -136,18 +127,13 @@ Its main subject is how we could create a machine that replicate our brain, and 
       
       <guid>http://whobbes.com/blog/posts/willpower/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    
-        &lt;img src=&#34;http://whobbes.com/blog/images/book_willpower.jpg&#34; width=&#34;50&#34; /&gt;
-    
-    
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_willpower.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 
 &lt;p&gt;Book by R. Baumeister and J. Tirerney about their research on willpower. Explore what is willpower and how to best use it. Gives good advice on the counterintuitive nature of it. Very easy and enjoyable to read. Feels a bit like light science at times i.e. easy conclusions from small papers.&lt;/p&gt;
 
-&lt;p&gt;&lt;kbd&gt;71%&lt;/kbd&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;kbd&gt;71%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -157,18 +143,13 @@ Its main subject is how we could create a machine that replicate our brain, and 
       
       <guid>http://whobbes.com/blog/posts/the_golden_age/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    
-        &lt;img src=&#34;http://whobbes.com/blog/images/book_the_golden_age.jpg&#34; width=&#34;50&#34; /&gt;
-    
-    
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_the_golden_age.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 
 &lt;p&gt;Science fiction book by John C Wright. The universe and postulate are very interesting the storyline a bit less so. Good but not great.&lt;/p&gt;
 
-&lt;p&gt;&lt;kbd&gt;63%&lt;/kbd&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;kbd&gt;63%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -178,18 +159,13 @@ Its main subject is how we could create a machine that replicate our brain, and 
       
       <guid>http://whobbes.com/blog/posts/weapons_math_destruction/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    
-        &lt;img src=&#34;http://whobbes.com/blog/images/book_weapons_maths_destructions.jpg&#34; width=&#34;50&#34; /&gt;
-    
-    
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_weapons_maths_destructions.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 
 &lt;p&gt;Very good read about the application of Data Science and the potential huge impact it has on our societies. Examples are easy to understand and the stories told interesting. A bit of repetition on the concepts and many different examples are also good to understand that the systems are present everywhere. The tone is kept light and it give motivation to study the field.&lt;/p&gt;
 
-&lt;p&gt;&lt;kbd&gt;87%&lt;/kbd&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;kbd&gt;87%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
