@@ -1,0 +1,345 @@
+<!doctype html>
+
+<html lang="en-gb">
+
+<head>
+  <title>Whobbes.com/blog</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="The HTML5 Herald" />
+  <meta name="author" content="Wallace" />
+  <meta name="generator" content="Hugo 0.60.1" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  <link rel="stylesheet" type="text/css" href="http://whobbes.com/blog/css/styles.css" />
+</head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1>
+        <a href="http://whobbes.com/blog/">Whobbes.com/blog</a>
+      </h1>
+      <ul id="social-media">
+        
+        <li><a href="http://whobbes.com"><i class="fa fa-home fa-lg" aria-hidden="true"></i></a></li>
+         
+        <li><a href="https://twitter.com/wallacehobbes"><i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+         
+        <li><a href="https://www.linkedin.com/in/sylvainviguier"><i class="fa fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
+         
+        <li><a href="https://github.com/whobbes"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a></li>
+           
+        <li><a href="https://instagram.com/wallacehobbes"><i class="fa fa-instagram fa-lg" aria-hidden="true"></i></a></li>
+        
+      </ul>
+      
+      <p><em>Creative Scientist</em></p>
+      
+    </header>
+    
+<nav>
+    <ul>
+        
+    </ul>
+</nav>
+    <main>
+
+
+
+
+<article>
+
+    <h1>Deep Learning with Python</h1>
+
+    
+        <aside>
+    <ul>
+        <li>
+            <time class="post-date" datetime="2019-12-06T20:45:13Z">Dec 6, 2019</time>
+        </li>
+        
+        
+
+        
+        <li>
+            <em>
+                
+                    
+                    <a href="http://whobbes.com/blog/tags/book-review/">#Book review</a>
+                
+            </em>
+        </li>
+        
+
+        <li>5 min read</li>
+    </ul>
+</aside>
+    
+
+    <figure class="sml">
+    <img src="http://whobbes.com/blog/images/book_deep_learning_with_python.jpg" width="50"/> 
+</figure>
+
+<p>Book by the author of Keras, F. Chollet about what is deep learning how to apply it to common tasks. Very well written and easy to follow, it focuses on practical teaching rather than theory. I read it two years ago and as the field is moving very fast content is a bit dated, best to wait for the second edition in Q2 2020.</p>
+<p><!-- raw HTML omitted -->95%<!-- raw HTML omitted --></p>
+<hr>
+<ul>
+<li>
+<p>Intro</p>
+<ul>
+<li>in 2016 Deep Learning replaces Support Vector Machines and other methods for most problems</li>
+<li>Deep Learning need nearly no feature engineering anymore</li>
+<li>Now competitions on Kaggle are won with Deep Learning for perception and XGB for organised data</li>
+</ul>
+</li>
+<li>
+<p>Basics</p>
+<ul>
+<li>
+<p>Gradient is derivative for multi-dimensions functions</p>
+</li>
+<li>
+<p>Dimensions are often 2D ( ID, Features), 4D for images (ID, H, W, channels), 5D for video (ID, H, W, channels, frame)</p>
+</li>
+<li>
+<p>Learning Back propagation by hand useless now that TensorFlow can do formal computation of gradient function directly</p>
+</li>
+<li>
+<p>Main goal is to minimize Loss function by using an optimizer. For each mini-batch Loss optimizer compute new weights based on current Loss.</p>
+</li>
+<li>
+<p>MNIST can be solved in 10 lines to a 97% accuracy!</p>
+</li>
+<li>
+<p>Type of layers to use</p>
+<ul>
+<li>Dense - fully connected</li>
+<li>Sequence - recurrent, LSTM</li>
+<li>Image - convolution</li>
+</ul>
+</li>
+<li>
+<p>Model is usually represented by acyclic graph</p>
+</li>
+<li>
+<p>Normalize test data with training data values to avoid spilling information</p>
+</li>
+<li>
+<p>Small dataset &ndash;&gt; Use (iterated) K-fold validation</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Fundamentals of ML</p>
+<ul>
+<li>
+<p>Supervised learning</p>
+<ul>
+<li>Most prevalent for now</li>
+<li>Given a set of input/output predict new output with new inputs</li>
+<li>Need big annotated datasets</li>
+<li>Where DL shines the most</li>
+</ul>
+</li>
+<li>
+<p>Unsupervised learning</p>
+<ul>
+<li>Given a set of data, find what is interesting</li>
+<li>Butter and bread of analytics</li>
+<li>Dimensionality reduction and clustering often used</li>
+</ul>
+</li>
+<li>
+<p>Self-supervised learning</p>
+<ul>
+<li>Special type of supervised whereby label are generated with heuristics</li>
+<li>Autoencoders</li>
+<li>E.g. predicting next frame in a video, next word in a sequence</li>
+</ul>
+</li>
+<li>
+<p>Reinforcement learning</p>
+<ul>
+<li>Agent-based</li>
+<li>Actions lead to environment changes</li>
+<li>Reward function judge changes</li>
+<li>Agent optimize to get best reward</li>
+<li>E.g. Model beating video games</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>How-to</p>
+<ul>
+<li>Define the problem</li>
+<li>Define the metric to optimize</li>
+<li>Define an evaluation protocol</li>
+<li>Prepare Data</li>
+<li>Pick a base model architecture that does better than baseline e.g. random</li>
+<li>Make the model overfit</li>
+<li>Regularize (L1, L2, dropout) and tune hyperparameters</li>
+<li>Maybe try other model architectures</li>
+</ul>
+</li>
+<li>
+<p>Computer Vision</p>
+<ul>
+<li>Skipped as nothing new on CN for me</li>
+</ul>
+</li>
+<li>
+<p>Text and sequences</p>
+<ul>
+<li>1D CNN when order does not matter, e.g. translation</li>
+<li>RNN when order matters e.g. time series analysis</li>
+<li>Bag of words and n-gram only for shallow networks</li>
+<li>DL and its multi-layers can learn long sequences without a need for feature engineering</li>
+<li>Using pre-trained embedding for text is rarely a good idea</li>
+<li>Word embeddings
+<ul>
+<li>(256, 512, 1024) are a way to condense one-hot (20k+)</li>
+<li>Need to be learned from data with aim that distance between words is representative of closeness of meaning</li>
+<li>Very hard to find universal one, Word2vec is OK, best to compute a new embedding for each problem</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Functional API</p>
+<ul>
+<li>Enable more topologies such as multiple inputs, outputs, residual, inception type networks…</li>
+<li>Only requirements is to create Directed acyclic graphs (DAGs)</li>
+<li>Residual help fighting vanishing gradients and representational bottlenecks</li>
+</ul>
+</li>
+<li>
+<p>Advanced ML</p>
+<ul>
+<li>Callback to print status, early stopping, changing optimizer parameters during training…</li>
+<li>Tensor Board to visualize model performances in details</li>
+<li>Batch normalization  ensure data is mean 0 and variance 1, important as usually done on input data but no sure after layers &ndash;&gt; Layers.BatchNorm(a), a=1 except for conv2D channel first where a=-1</li>
+<li>New approach using selu and lecun_rand for self-normalizing NN, only working on Dense so far</li>
+<li>Move towards Separable conv2d as cheaper and as good as conv2d, base for Xception model</li>
+<li>Hyper-parameters space is discrete, so it is hard to find a good way to tune them, Hyperas and Hyperopt for Python can help</li>
+</ul>
+</li>
+<li>
+<p>Ensembling</p>
+<ul>
+<li>Always better, especially with model of different approach as capture different part of the latent information</li>
+<li>Use weighted averages vs. accuracy, can use Nelder-Mead optimisation to choose weights.</li>
+<li>DNN + Trees (Random forest or gradient boost) is great combination of Deep + Wide</li>
+</ul>
+</li>
+<li>
+<p>Trees</p>
+<ul>
+<li>Works best on structured data</li>
+<li>Random forests &ndash;&gt; ensemble of uncorrelated weak predictor gives strong predictor, works by sampling input data  e.g. [1,2,3,3,4,5,5] and [1,2,2,2,4,5] and randomizing features that tree can choose from</li>
+<li>Gradient boost &ndash;&gt; start with tree, then compute loss and gradients, add second tree and so on, until happy with results.</li>
+</ul>
+</li>
+<li>
+<p>Libraries for Kaggle, the simpler the winner</p>
+<ul>
+<li>Keras now 40%</li>
+<li>lightGBM by MSFT leaf-based addition, faster than XGB?</li>
+<li>XGBoost, level-based additions</li>
+<li>TensorFlow</li>
+</ul>
+</li>
+<li>
+<p>Generative approaches</p>
+<ul>
+<li>
+<p>Text generation</p>
+<ul>
+<li>Reuse sequence model, give softmax of all output but we want to control randomness temperature to go from random to predictible</li>
+<li>Build network with its input the first part of a sequence and its output the other part</li>
+</ul>
+</li>
+<li>
+<p>Style transfer</p>
+<ul>
+<li>3 different loss with weighted average</li>
+<li>Use optimisation over the pixel to iterate over input and change output</li>
+<li>DNN is used to compute loss here</li>
+<li>Good result when style is space-invariant and input simple shape</li>
+<li>Ultimately, one could generate lots of good examples and learn the functions as a filter with a fairly simple CNN</li>
+</ul>
+</li>
+<li>
+<p>Deep Dreams</p>
+<ul>
+<li>Same idea than style transfer but for style running a CNN backward to see how to maximize activations on what has been learned before such as cats, dogs, building and anything in ImageNet</li>
+</ul>
+</li>
+<li>
+<p>VAE</p>
+<ul>
+<li>Describe latent space based on some input</li>
+<li>Then give new input and generate output for space described</li>
+<li>Tend to work best when axis are well-defined parameters, continuity of change along them</li>
+<li>Basic encoder-decoder does not lead to interesting results, working on distributions instead</li>
+<li>VAE ensure input sample of distribution with same mean and variance learned. The decoder then sample the distribution to get output</li>
+<li>Out = mean + small_epsilon * exp(log var)</li>
+</ul>
+</li>
+<li>
+<p>GAN</p>
+<ul>
+<li>Similar base idea than VAE</li>
+<li>Much more unpredictable output than VAE, no continuous structure of latent space!</li>
+<li>Use of generators</li>
+<li>Notoriously hard to train</li>
+<li>Generator and discriminator battling, not optimal solution but an equilibrium</li>
+<li>Lots of gotchas, see code in book e.g. learning rate decay, gradient clipping</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Future of DL</p>
+<ul>
+<li>DNN can only do very local generalization for now</li>
+<li>DNN often started from scratch, will become part of program</li>
+<li>Merging of DNN and program synthesizer, with use of non-differentiable networks with loops</li>
+<li>Algo (formal, reasoning) vs. Geometric (informal, pattern matching) modules</li>
+<li>Extreme generalization: learn from very little or no data at all, like human</li>
+<li>How to progress: arxiv, kaggle, practice, practice, practice</li>
+</ul>
+</li>
+</ul>
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="http://whobbes.com/blog/posts/parenting/"><i class="fa fa-chevron-circle-left"></i> Parenting</a>
+        </li>
+        
+        
+    </ul>
+</section>
+    
+
+
+
+
+
+</main>
+    <footer>
+        <h6>Copyright © Wallace Hobbes. All rights reserved. | <a href="https://whobbes.com" title="whobbes.com">whobbes.com</a> |
+            <a href="http://whobbes.com/blog/index.xml">Subscribe</a></h6>
+    </footer>
+</div>
+<script src="http://whobbes.com/blog/js/scripts.js"></script>
+</body>
+
+</html>

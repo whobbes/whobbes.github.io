@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Nov 2019 22:19:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 20:45:13 +0000</lastBuildDate>
     
 	<atom:link href="http://whobbes.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning with Python</title>
+      <link>http://whobbes.com/blog/posts/deep_learning_with_python/</link>
+      <pubDate>Fri, 06 Dec 2019 20:45:13 +0000</pubDate>
+      
+      <guid>http://whobbes.com/blog/posts/deep_learning_with_python/</guid>
+      <description>&lt;figure class=&#34;sml&#34;&gt;
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_deep_learning_with_python.jpg&#34; width=&#34;50&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Book by the author of Keras, F. Chollet about what is deep learning how to apply it to common tasks. Very well written and easy to follow, it focuses on practical teaching rather than theory. I read it two years ago and as the field is moving very fast content is a bit dated, best to wait for the second edition in Q2 2020.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;95%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Parenting</title>
@@ -22,12 +36,9 @@
     &lt;img src=&#34;http://whobbes.com/blog/images/book_parenting.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;This orange volume with a name too long to be of any use beside marketing, actually contains some valuable insights. Its main subject is about parenting but many ideas expressed are applicable in much wider context; a bit heavy in anecdotal stories.&lt;/p&gt;
-
 &lt;p&gt;Actual title : The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That You Did)&lt;/p&gt;
-
-&lt;p&gt;&lt;kbd&gt;75%&lt;/kbd&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;75%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,14 +51,10 @@
     &lt;img src=&#34;http://whobbes.com/blog/images/book_21_lessons_21_century.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Yuval Noah Harari was famous for  Sapiens about the past, then Homo Deus about the future and now focus on the present.&lt;/p&gt;
-
-&lt;p&gt;Comparing this book to the two previous one is easy. 21 lessons feel rushed in the writing and less well researched in the ideas. What we have here is a quick summary of previous books in a quick-read format. That being said, it makes the author&amp;rsquo;s main ideas easy to remember.&lt;/p&gt;
-
+&lt;p&gt;Comparing this book to the two previous one is easy. 21 lessons feel rushed in the writing and less well researched in the ideas. What we have here is a quick summary of previous books in a quick-read format. That being said, it makes the author&#39;s main ideas easy to remember.&lt;/p&gt;
 &lt;p&gt;Special mention for the effort of the author on being impartial where possible and focusing on presenting important and difficult questions to ask and not making speculations on potential solutions.&lt;/p&gt;
-
-&lt;p&gt;&lt;kbd&gt;63%&lt;/kbd&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;63%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -60,10 +67,8 @@
     &lt;img src=&#34;http://whobbes.com/blog/images/book_drive.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Book by Daniel H. Pink on motivation. It is a bit pop science, yet the ideas are powerful. It describes very well the recent shift in work paradigm that is happening in the tech industry. It helps focusing on what is important and carving a way to leading a fullfilling life.&lt;/p&gt;
-
-&lt;p&gt;&lt;kbd&gt;76%&lt;/kbd&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;76%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -76,14 +81,10 @@
     &lt;img src=&#34;http://whobbes.com/blog/images/book_design_everyday_things.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;This book by Donald A. Norman is part of the classics of design with a first edition in 1988 and a updated version in 2013.&lt;/p&gt;
-
 &lt;p&gt;Many strong concepts such as affordances and signifiers are defined here and the point of view is very much oriented towards function over form,  which can be a debatable stance. The emphasis of the book is that simple interactions are difficult to create and one way to to so is to embrace user-centered design.&lt;/p&gt;
-
 &lt;p&gt;The book closes on an discussion of the inclusion of emotions in the process; Dan explored it further in a &lt;a href=&#34;google.com&#34;&gt;TED talk&lt;/a&gt;. Every day objects will change slowly and happiness feeling while using the item is important. If one is happy then brain goes towards creative mode, if one is anxious and concentrated brain only focus on current task, exploration vs. exploitation, ideation vs. execution.&lt;/p&gt;
-
-&lt;p&gt;&lt;kbd&gt;88%&lt;/kbd&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;88%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -96,10 +97,8 @@
     &lt;img src=&#34;http://whobbes.com/blog/images/book_pragmatic_programmer.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Book by Andy Hunt and Dave Thomas about programming written in 1999 and part of the classics of CS. It contains some good ideas, some obvious and some outdated. Overall very good, no ground-breaking but good reminder to focus on value and quality.&lt;/p&gt;
-
-&lt;p&gt;&lt;kbd&gt;76%&lt;/kbd&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;76%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -112,12 +111,9 @@
     &lt;img src=&#34;http://whobbes.com/blog/images/book_three_body_problem.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Amazing Hard Sci-fi trilogy by Liu Cixin with many original and though-provoking concepts. Book one focus on a detail of the universe where book two then three open up a lot the field of view while the whole stay nicely connected.
 Inspiring possible future, based on plausible advances in Technology and Science. Bleak at times as a nice reflection that the universe can be rough.&lt;/p&gt;
-
-&lt;p&gt;&lt;kbd&gt;91%&lt;/kbd&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;91%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;SPOILER ALERT: what follows reveal the main secrets and ideas of the saga&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
@@ -131,14 +127,10 @@ Inspiring possible future, based on plausible advances in Technology and Science
     &lt;img src=&#34;http://whobbes.com/blog/images/book_zen_and_the_art_of_motorcycle_maintenance.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Book by Robert Pirsig, written in 1968. It became a best-seller very quickly and seen as a book that carries culture of his time.&lt;/p&gt;
-
 &lt;p&gt;It contains three intertwined plots narrated by the first person. It is about a motorcycle ride of father and son through America, Mental health of the narrator and An essay on values and quality.&lt;/p&gt;
-
 &lt;p&gt;I really got hooked by the start of the book, his unique style and questioning of fundamental values. The presentation of the Quality thesis is the pinnacle of the piece. The last third of the book is more obscure and go on about Greek philosophy where it feels like the whole debate is made on play on words and definition rather than actual advancement of the mind.&lt;/p&gt;
-
-&lt;p&gt;&lt;kbd&gt;85%&lt;/kbd&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;85%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -151,11 +143,9 @@ Inspiring possible future, based on plausible advances in Technology and Science
     &lt;img src=&#34;http://whobbes.com/blog/images/book_how_to_create_a_mind.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Book written in 2012  by Ray Kurzweil famous futurist but also CS engineer.
 Its main subject is how we could create a machine that replicate our brain, and then make it better. By touching such an important topic - the final frontier - he also reflect on philosophy and ethics in a simple and direct way. The information is very accessible and also quite general but nice example from his career are mentioned.  Overall, I found the book very inspiring and a must read.&lt;/p&gt;
-
-&lt;p&gt;&lt;kbd&gt;92%&lt;/kbd&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;92%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -168,10 +158,8 @@ Its main subject is how we could create a machine that replicate our brain, and 
     &lt;img src=&#34;http://whobbes.com/blog/images/book_willpower.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Book by R. Baumeister and J. Tirerney about their research on willpower. Explore what is willpower and how to best use it. Gives good advice on the counterintuitive nature of it. Very easy and enjoyable to read. Feels a bit like light science at times i.e. easy conclusions from small papers.&lt;/p&gt;
-
-&lt;p&gt;&lt;kbd&gt;71%&lt;/kbd&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;71%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -184,10 +172,8 @@ Its main subject is how we could create a machine that replicate our brain, and 
     &lt;img src=&#34;http://whobbes.com/blog/images/book_the_golden_age.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Science fiction book by John C Wright. The universe and postulate are very interesting the storyline a bit less so. Good but not great.&lt;/p&gt;
-
-&lt;p&gt;&lt;kbd&gt;63%&lt;/kbd&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;63%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -200,10 +186,8 @@ Its main subject is how we could create a machine that replicate our brain, and 
     &lt;img src=&#34;http://whobbes.com/blog/images/book_weapons_maths_destructions.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Very good read about the application of Data Science and the potential huge impact it has on our societies. Examples are easy to understand and the stories told interesting. A bit of repetition on the concepts and many different examples are also good to understand that the systems are present everywhere. The tone is kept light and it give motivation to study the field.&lt;/p&gt;
-
-&lt;p&gt;&lt;kbd&gt;87%&lt;/kbd&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;87%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
