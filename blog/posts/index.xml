@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 Dec 2019 20:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2019 10:10:52 +0000</lastBuildDate>
     
 	<atom:link href="http://whobbes.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Labyrinths</title>
+      <link>http://whobbes.com/blog/posts/labyrinths/</link>
+      <pubDate>Sun, 22 Dec 2019 10:10:52 +0000</pubDate>
+      
+      <guid>http://whobbes.com/blog/posts/labyrinths/</guid>
+      <description>&lt;figure class=&#34;sml&#34;&gt;
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_labyrinths.jpg&#34; width=&#34;50&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;&amp;ldquo;I do not know which of us has written this page.&amp;rdquo; By those words the author finishes the simply named Borges and I parable  that illustrate so well what Labyrinths  is all about. Borges writes short, efficient texts with very powerful ideas and reflections. This meandering book first published in 1962, made of short stories, essays and parables explores the complexity of the mind, reality and the universe through the central theme of infinity.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;92%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Deep Learning with Python</title>
