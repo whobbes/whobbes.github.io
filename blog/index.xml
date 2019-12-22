@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 22 Dec 2019 10:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2019 22:14:08 +0000</lastBuildDate>
     
 	<atom:link href="http://whobbes.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Clean code</title>
+      <link>http://whobbes.com/blog/posts/clean_code/</link>
+      <pubDate>Sun, 22 Dec 2019 22:14:08 +0000</pubDate>
+      
+      <guid>http://whobbes.com/blog/posts/clean_code/</guid>
+      <description>&lt;figure class=&#34;sml&#34;&gt;
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_clean_code.jpg&#34; width=&#34;50&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;I went through this book as other studied it as part of a regular meeting. Its tone is very similar to the pragmatic programmer and written in 2008 by an Extreme programming guru nicknamed Uncle Bob. While it contains lots of insights and tips and tricks about programming in general its tone is also quite dogmatic at times and even arbitrary when the author does not make a clear effort at explaining rational behind rules. The reader is left to blindly trust the guru or go and try it himself. In the end, this is probably the main point of the book, here is how I code after quite a big mileage. Here are the things to look for, smells, and some approaches I use when figuring out the best way to code. Now go coding and see how this pans out for you. To sum up, it is a refreshing book that gives good ideas about what to focus on when programming to hopefully progress towards writing better code faster; a must read for serious coders.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;76%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Labyrinths</title>
