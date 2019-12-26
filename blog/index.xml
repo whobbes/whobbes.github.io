@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 22 Dec 2019 22:14:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2019 13:56:23 +0000</lastBuildDate>
     
 	<atom:link href="http://whobbes.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How bad are bananas?</title>
+      <link>http://whobbes.com/blog/posts/how_bad_bananas/</link>
+      <pubDate>Thu, 26 Dec 2019 13:56:23 +0000</pubDate>
+      
+      <guid>http://whobbes.com/blog/posts/how_bad_bananas/</guid>
+      <description>&lt;figure class=&#34;sml&#34;&gt;
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_how_bad_bananas.jpg&#34; width=&#34;50&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;The first step in order to change is to realize the need for change. Thinking about carbon footprint for a little while,  I started making minute changes last year largely based on randomly gathered ideas I had about what is carbon efficient or not.&lt;/p&gt;
+&lt;p&gt;To progress further, I needed data. A good friend told me about this book  &lt;em&gt;How bad are bananas&lt;/em&gt;  that comprises a hundred different items and their footprints. It turns out only some of my ideas were correct, and that my correctness was not correlated with my confidence level; I got surprised.&lt;/p&gt;
+&lt;p&gt;This is a must-read to whom want to dive a little bit deeper in the world of carbon footprint, and will provide easy yet powerful steps to reduce one energy consumption.&lt;/p&gt;
+&lt;p&gt;As for me, I realize that my random small efforts help, but a more thought-about plan would probably bring better results. Below are a couple of noteworthy information that will be extended in the future.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;98%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Clean code</title>
