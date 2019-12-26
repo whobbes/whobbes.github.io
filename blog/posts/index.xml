@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 26 Dec 2019 13:56:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2019 22:23:16 +0000</lastBuildDate>
     
 	<atom:link href="http://whobbes.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Art of Statistics</title>
+      <link>http://whobbes.com/blog/posts/art_of_statistics/</link>
+      <pubDate>Thu, 26 Dec 2019 22:23:16 +0000</pubDate>
+      
+      <guid>http://whobbes.com/blog/posts/art_of_statistics/</guid>
+      <description>&lt;figure class=&#34;sml&#34;&gt;
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_art_of_statistics.jpg&#34; width=&#34;50&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Unfortunately, our brains have not yet adapted to our modern times, and probably never will. Our culture and livelihood are changing faster than the seasons and we need to make sense of our societies in order to understand where to go from here. Computers can crunch numbers ever so fast, and it is now down to the individual to know what to ask. This is where statistics come in handy, even if they are often portrayed as complex.&lt;/p&gt;
+&lt;p&gt;D. Spiegelhalter, statistician at Cambridge University, propose in the Art of Statistics a new approach firmly grounded in concrete examples and down-to-earth. Where there are numbers, events and probabilities statistics offer us invaluable tools to make sense of the situations and avoid fooling the easiest person to fool, ourselves.&lt;/p&gt;
+&lt;p&gt;I learned stats a few times, and do not use them often enough to keep it fresh in my mind. This time around, even if I did not learn new tools, I thought the approach was great, and the stories interesting enough to make it a great read.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;77%&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>How bad are bananas?</title>
