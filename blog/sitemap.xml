@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://whobbes.com/blog/tags/book-review/</loc>
-    <lastmod>2019-12-26T22:23:16+00:00</lastmod>
+    <loc>http://whobbes.com/blog/posts/</loc>
+    <lastmod>2020-02-05T22:03:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://whobbes.com/blog/posts/</loc>
+    <loc>http://whobbes.com/blog/posts/floating/</loc>
+    <lastmod>2020-02-05T22:03:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://whobbes.com/blog/</loc>
+    <lastmod>2020-02-05T22:03:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://whobbes.com/blog/tags/book-review/</loc>
     <lastmod>2019-12-26T22:23:16+00:00</lastmod>
   </url>
   
@@ -19,11 +29,6 @@
   
   <url>
     <loc>http://whobbes.com/blog/posts/art_of_statistics/</loc>
-    <lastmod>2019-12-26T22:23:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://whobbes.com/blog/</loc>
     <lastmod>2019-12-26T22:23:16+00:00</lastmod>
   </url>
   
