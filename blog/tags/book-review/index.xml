@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Book Review on Whobbes.com/blog</title>
+    <title>Book review on Whobbes.com/blog</title>
     <link>http://whobbes.com/blog/tags/book-review/</link>
-    <description>Recent content in Book Review on Whobbes.com/blog</description>
+    <description>Recent content in Book review on Whobbes.com/blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 24 May 2020 14:06:33 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2020 12:50:17 +0100</lastBuildDate>
     
 	<atom:link href="http://whobbes.com/blog/tags/book-review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Letters from a Stoic</title>
+      <link>http://whobbes.com/blog/posts/letters_from_stoic/</link>
+      <pubDate>Fri, 23 Oct 2020 12:50:17 +0100</pubDate>
+      
+      <guid>http://whobbes.com/blog/posts/letters_from_stoic/</guid>
+      <description>&lt;figure class=&#34;sml&#34;&gt;
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_letters_from_stoic.jpg&#34; width=&#34;50&#34;/&gt; 
+&lt;/figure&gt;
+
+
+&lt;p&gt;Seneca, roman philosopher, wrote a series of letters towards the end of his life. They present his teachings
+often in the form of starting on an example and extracting a bit of wisdom out of it. The book includes
+124 of such letters and are surprisingly witty and modern for such an old text. The author indeed ponders
+about the use of the latest gadgets, stand against all forms of slavery and for equality and considers if being vegetarian is a good idea. It reminds us that the fundamental of human life do not change so fast and are well worth exploring.&lt;/p&gt;
+
+&lt;p&gt;&lt;kbd&gt;94%&lt;/kbd&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The Invention of Science</title>
