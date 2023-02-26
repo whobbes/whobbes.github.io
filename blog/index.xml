@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Whobbes.com/blog</title>
     <link>https://whobbes.com/blog/</link>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 07 Mar 2021 09:34:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Feb 2023 01:26:31 +0000</lastBuildDate>
     
 	<atom:link href="https://whobbes.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books of 2022</title>
+      <link>https://whobbes.com/blog/posts/books_2022/</link>
+      <pubDate>Sun, 26 Feb 2023 01:26:31 +0000</pubDate>
+      
+      <guid>https://whobbes.com/blog/posts/books_2022/</guid>
+      <description>Here is last year&#39;s bookshelf, quite a few topics explored, moslty linked with my development in management, coaching and product.</description>
+    </item>
     
     <item>
       <title>Why we sleep</title>
@@ -22,11 +31,8 @@
     &lt;img src=&#34;https://whobbes.com/blog/images/book_why_we_sleep.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;If all animals need to slumber daily in an apparent state of coma, unable to use this time for other tasks, there must be good reasons. As we will see sleep impact many if not all biological processes of the body. This book by Mr Walker is a real eye-opener on what is sleep, what happen when we neglect it and how much better off we are with a good sleep hygiene.&lt;/p&gt;
-
 &lt;p&gt;From the evidence presented, I now believe that sleep is at least as important as a good diet and exercise to be healthy and function physically and mentally at one optimum. A must read.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;94%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -40,12 +46,10 @@
     &lt;img src=&#34;https://whobbes.com/blog/images/book_letters_from_stoic.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Seneca, roman philosopher, wrote a series of letters towards the end of his life. They present his teachings
 often in the form of starting on an example and extracting a bit of wisdom out of it. The book includes
 124 of such letters and are surprisingly witty and modern for such an old text. The author indeed ponders
 about the use of the latest gadgets, stand against all forms of slavery and for equality and considers if being vegetarian is a good idea. It reminds us that the fundamental of human life do not change so fast and are well worth exploring.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;94%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -59,10 +63,8 @@ about the use of the latest gadgets, stand against all forms of slavery and for 
     &lt;img src=&#34;https://whobbes.com/blog/images/book_invention_of_science.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Science is one of the first human enterprise to value an unpersonal, disinterested view of the world which push for radical openness and ultimately extending our knowledge of the universe.
-David Wootton, professor of History at the University of York, wrote extensively about the History of Science and dress here a portrait of its slow emergence. Very well written, the book goes into the details of the whole process and use a number of specific example to illustrate new paradigms. It was a joy for me to delve in the past and reinforced my belief that I can&amp;rsquo;t think of a more noble cause.&lt;/p&gt;
-
+David Wootton, professor of History at the University of York, wrote extensively about the History of Science and dress here a portrait of its slow emergence. Very well written, the book goes into the details of the whole process and use a number of specific example to illustrate new paradigms. It was a joy for me to delve in the past and reinforced my belief that I can&#39;t think of a more noble cause.&lt;/p&gt;
 &lt;p&gt;&lt;kbd&gt;94%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -76,9 +78,7 @@ David Wootton, professor of History at the University of York, wrote extensively
     &lt;img src=&#34;https://whobbes.com/blog/images/book_science_storytelling.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;A penguin and a plane. Our brain cannot be stopped in its automatic construction of a setting and story. In the Science of storytelling (Will Storr, 2019) the author starts by dissecting stories in order to understand their use. Doing so leads to exploring history, our brains and what characters are made of. Not only did I learn more about how to deliver an impactful message but I also got to understand more about myself. In the end, the story is realized as Mr. Borr tell us that &amp;ldquo;the Golden rule of stories is presenting characters trying to figure who they are.&amp;rdquo;&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;90%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -91,7 +91,6 @@ David Wootton, professor of History at the University of York, wrote extensively
       <description>&lt;figure class=&#34;sml&#34;&gt;
     &lt;img src=&#34;https://whobbes.com/blog/images/dark_pool.jpg&#34;/&gt; 
 &lt;/figure&gt;
-
 
 &lt;p&gt;As an meditation enthusiast, I thought since a long time that sensory deprivation was something to try, and recently had an opportunity to give it a go.&lt;/p&gt;</description>
     </item>
@@ -106,13 +105,9 @@ David Wootton, professor of History at the University of York, wrote extensively
     &lt;img src=&#34;https://whobbes.com/blog/images/book_art_of_statistics.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Unfortunately, our brains have not yet adapted to our modern times, and probably never will. Our culture and livelihood are changing faster than the seasons and we need to make sense of our societies in order to understand where to go from here. Computers can crunch numbers ever so fast, and it is now down to the individual to know what to ask. This is where statistics come in handy, even if they are often portrayed as complex.&lt;/p&gt;
-
 &lt;p&gt;D. Spiegelhalter, statistician at Cambridge University, propose in the Art of Statistics a new approach firmly grounded in concrete examples and down-to-earth. Where there are numbers, events and probabilities statistics offer us invaluable tools to make sense of the situations and avoid fooling the easiest person to fool, ourselves.&lt;/p&gt;
-
 &lt;p&gt;I learned stats a few times, and do not use them often enough to keep it fresh in my mind. This time around, even if I did not learn new tools, I thought the approach was great, and the stories interesting enough to make it a great read.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;77%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -126,15 +121,10 @@ David Wootton, professor of History at the University of York, wrote extensively
     &lt;img src=&#34;https://whobbes.com/blog/images/book_how_bad_bananas.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;The first step in order to change is to realize the need for change. Thinking about carbon footprint for a little while,  I started making minute changes last year largely based on randomly gathered ideas I had about what is carbon efficient or not.&lt;/p&gt;
-
 &lt;p&gt;To progress further, I needed data. A good friend told me about this book  &lt;em&gt;How bad are bananas&lt;/em&gt;  that comprises a hundred different items and their footprints. It turns out only some of my ideas were correct, and that my correctness was not correlated with my confidence level; I got surprised.&lt;/p&gt;
-
 &lt;p&gt;This is a must-read to whom want to dive a little bit deeper in the world of carbon footprint, and will provide easy yet powerful steps to reduce one energy consumption.&lt;/p&gt;
-
 &lt;p&gt;As for me, I realize that my random small efforts help, but a more thought-about plan would probably bring better results. Below are a couple of noteworthy information that will be extended in the future.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;98%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -148,9 +138,7 @@ David Wootton, professor of History at the University of York, wrote extensively
     &lt;img src=&#34;https://whobbes.com/blog/images/book_clean_code.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;I went through this book as other studied it as part of a regular meeting. Its tone is very similar to the pragmatic programmer and written in 2008 by an Extreme programming guru nicknamed Uncle Bob. While it contains lots of insights and tips and tricks about programming in general its tone is also quite dogmatic at times and even arbitrary when the author does not make a clear effort at explaining rational behind rules. The reader is left to blindly trust the guru or go and try it himself. In the end, this is probably the main point of the book, here is how I code after quite a big mileage. Here are the things to look for, smells, and some approaches I use when figuring out the best way to code. Now go coding and see how this pans out for you. To sum up, it is a refreshing book that gives good ideas about what to focus on when programming to hopefully progress towards writing better code faster; a must read for serious coders.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;76%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -164,9 +152,7 @@ David Wootton, professor of History at the University of York, wrote extensively
     &lt;img src=&#34;https://whobbes.com/blog/images/book_labyrinths.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;&amp;ldquo;I do not know which of us has written this page.&amp;rdquo; By those words the author finishes the simply named Borges and I parable  that illustrate so well what Labyrinths  is all about. Borges writes short, efficient texts with very powerful ideas and reflections. This meandering book first published in 1962, made of short stories, essays and parables explores the complexity of the mind, reality and the universe through the central theme of infinity.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;92%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -180,9 +166,7 @@ David Wootton, professor of History at the University of York, wrote extensively
     &lt;img src=&#34;https://whobbes.com/blog/images/book_deep_learning_with_python.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Book by the author of Keras, F. Chollet about what is deep learning how to apply it to common tasks. Very well written and easy to follow, it focuses on practical teaching rather than theory. I read it two years ago and as the field is moving very fast content is a bit dated, best to wait for the second edition in Q2 2020.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;95%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -196,11 +180,8 @@ David Wootton, professor of History at the University of York, wrote extensively
     &lt;img src=&#34;https://whobbes.com/blog/images/book_parenting.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;This orange volume with a name too long to be of any use beside marketing, actually contains some valuable insights. Its main subject is about parenting but many ideas expressed are applicable in much wider context; a bit heavy in anecdotal stories.&lt;/p&gt;
-
 &lt;p&gt;Actual title : The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That You Did)&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;75%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -214,13 +195,9 @@ David Wootton, professor of History at the University of York, wrote extensively
     &lt;img src=&#34;https://whobbes.com/blog/images/book_21_lessons_21_century.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Yuval Noah Harari was famous for  Sapiens about the past, then Homo Deus about the future and now focus on the present.&lt;/p&gt;
-
-&lt;p&gt;Comparing this book to the two previous one is easy. 21 lessons feel rushed in the writing and less well researched in the ideas. What we have here is a quick summary of previous books in a quick-read format. That being said, it makes the author&amp;rsquo;s main ideas easy to remember.&lt;/p&gt;
-
+&lt;p&gt;Comparing this book to the two previous one is easy. 21 lessons feel rushed in the writing and less well researched in the ideas. What we have here is a quick summary of previous books in a quick-read format. That being said, it makes the author&#39;s main ideas easy to remember.&lt;/p&gt;
 &lt;p&gt;Special mention for the effort of the author on being impartial where possible and focusing on presenting important and difficult questions to ask and not making speculations on potential solutions.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;63%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -234,9 +211,7 @@ David Wootton, professor of History at the University of York, wrote extensively
     &lt;img src=&#34;https://whobbes.com/blog/images/book_drive.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Book by Daniel H. Pink on motivation. It is a bit pop science, yet the ideas are powerful. It describes very well the recent shift in work paradigm that is happening in the tech industry. It helps focusing on what is important and carving a way to leading a fullfilling life.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;76%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -250,13 +225,9 @@ David Wootton, professor of History at the University of York, wrote extensively
     &lt;img src=&#34;https://whobbes.com/blog/images/book_design_everyday_things.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;This book by Donald A. Norman is part of the classics of design with a first edition in 1988 and a updated version in 2013.&lt;/p&gt;
-
 &lt;p&gt;Many strong concepts such as affordances and signifiers are defined here and the point of view is very much oriented towards function over form,  which can be a debatable stance. The emphasis of the book is that simple interactions are difficult to create and one way to to so is to embrace user-centered design.&lt;/p&gt;
-
 &lt;p&gt;The book closes on an discussion of the inclusion of emotions in the process; Dan explored it further in a &lt;a href=&#34;google.com&#34;&gt;TED talk&lt;/a&gt;. Every day objects will change slowly and happiness feeling while using the item is important. If one is happy then brain goes towards creative mode, if one is anxious and concentrated brain only focus on current task, exploration vs. exploitation, ideation vs. execution.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;88%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -270,9 +241,7 @@ David Wootton, professor of History at the University of York, wrote extensively
     &lt;img src=&#34;https://whobbes.com/blog/images/book_pragmatic_programmer.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Book by Andy Hunt and Dave Thomas about programming written in 1999 and part of the classics of CS. It contains some good ideas, some obvious and some outdated. Overall very good, no ground-breaking but good reminder to focus on value and quality.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;76%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -286,12 +255,9 @@ David Wootton, professor of History at the University of York, wrote extensively
     &lt;img src=&#34;https://whobbes.com/blog/images/book_three_body_problem.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Amazing Hard Sci-fi trilogy by Liu Cixin with many original and though-provoking concepts. Book one focus on a detail of the universe where book two then three open up a lot the field of view while the whole stay nicely connected.
 Inspiring possible future, based on plausible advances in Technology and Science. Bleak at times as a nice reflection that the universe can be rough.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;91%&lt;/kbd&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;SPOILER ALERT: what follows reveal the main secrets and ideas of the saga&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
@@ -305,13 +271,9 @@ Inspiring possible future, based on plausible advances in Technology and Science
     &lt;img src=&#34;https://whobbes.com/blog/images/book_zen_and_the_art_of_motorcycle_maintenance.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Book by Robert Pirsig, written in 1968. It became a best-seller very quickly and seen as a book that carries culture of his time.&lt;/p&gt;
-
 &lt;p&gt;It contains three intertwined plots narrated by the first person. It is about a motorcycle ride of father and son through America, Mental health of the narrator and An essay on values and quality.&lt;/p&gt;
-
 &lt;p&gt;I really got hooked by the start of the book, his unique style and questioning of fundamental values. The presentation of the Quality thesis is the pinnacle of the piece. The last third of the book is more obscure and go on about Greek philosophy where it feels like the whole debate is made on play on words and definition rather than actual advancement of the mind.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;85%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -325,10 +287,8 @@ Inspiring possible future, based on plausible advances in Technology and Science
     &lt;img src=&#34;https://whobbes.com/blog/images/book_how_to_create_a_mind.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Book written in 2012  by Ray Kurzweil famous futurist but also CS engineer.
 Its main subject is how we could create a machine that replicate our brain, and then make it better. By touching such an important topic - the final frontier - he also reflect on philosophy and ethics in a simple and direct way. The information is very accessible and also quite general but nice example from his career are mentioned.  Overall, I found the book very inspiring and a must read.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;92%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -342,9 +302,7 @@ Its main subject is how we could create a machine that replicate our brain, and 
     &lt;img src=&#34;https://whobbes.com/blog/images/book_willpower.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Book by R. Baumeister and J. Tirerney about their research on willpower. Explore what is willpower and how to best use it. Gives good advice on the counterintuitive nature of it. Very easy and enjoyable to read. Feels a bit like light science at times i.e. easy conclusions from small papers.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;71%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -358,9 +316,7 @@ Its main subject is how we could create a machine that replicate our brain, and 
     &lt;img src=&#34;https://whobbes.com/blog/images/book_the_golden_age.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Science fiction book by John C Wright. The universe and postulate are very interesting the storyline a bit less so. Good but not great.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;63%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     
@@ -374,9 +330,7 @@ Its main subject is how we could create a machine that replicate our brain, and 
     &lt;img src=&#34;https://whobbes.com/blog/images/book_weapons_maths_destructions.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
-
 &lt;p&gt;Very good read about the application of Data Science and the potential huge impact it has on our societies. Examples are easy to understand and the stories told interesting. A bit of repetition on the concepts and many different examples are also good to understand that the systems are present everywhere. The tone is kept light and it give motivation to study the field.&lt;/p&gt;
-
 &lt;p&gt;&lt;kbd&gt;87%&lt;/kbd&gt;&lt;/p&gt;</description>
     </item>
     

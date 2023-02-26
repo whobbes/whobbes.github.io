@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="The HTML5 Herald" />
   <meta name="author" content="Wallace" />
-  <meta name="generator" content="Hugo 0.59.1" />
+  <meta name="generator" content="Hugo 0.60.1" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
@@ -88,35 +88,29 @@
     <img src="https://whobbes.com/blog/images/book_art_of_statistics.jpg" width="50"/> 
 </figure>
 
-
 <p>Unfortunately, our brains have not yet adapted to our modern times, and probably never will. Our culture and livelihood are changing faster than the seasons and we need to make sense of our societies in order to understand where to go from here. Computers can crunch numbers ever so fast, and it is now down to the individual to know what to ask. This is where statistics come in handy, even if they are often portrayed as complex.</p>
-
 <p>D. Spiegelhalter, statistician at Cambridge University, propose in the Art of Statistics a new approach firmly grounded in concrete examples and down-to-earth. Where there are numbers, events and probabilities statistics offer us invaluable tools to make sense of the situations and avoid fooling the easiest person to fool, ourselves.</p>
-
 <p>I learned stats a few times, and do not use them often enough to keep it fresh in my mind. This time around, even if I did not learn new tools, I thought the approach was great, and the stories interesting enough to make it a great read.</p>
-
 <p><kbd>77%</kbd></p>
-
-<hr />
-
+<hr>
 <ul>
 <li>Basics about counting events and Randomized controlled trial</li>
 <li>Causality vs. causation
-
 <ul>
 <li>Causality &ndash;&gt; relationship between cause and effect i.e. cause my be required</li>
 <li>Causation &ndash;&gt; process of cause to create effect i.e. cause required for effect to happen</li>
-</ul></li>
+</ul>
+</li>
 <li>Regression to the mean: if some unlikely random value occurs and we take action. The next time the value is likely to be close to mean and we could wrongly interpret our action as cause for this.</li>
 <li>&ldquo;All models are wrong, some are useful&rdquo; - George Box</li>
 <li>ROC curve is sensitivity (% true positive) vs. specificity (% true negative)
-
 <ul>
 <li>Also need a calibration curve to see the situation</li>
-</ul></li>
+</ul>
+</li>
 <li>Start with simple baseline in order to have a point of comparison when judging how good a model is</li>
 <li>Overfitting happens when model is too close to inputs &ndash;&gt; regularization, split train/test</li>
-<li>Looking at different class of algorithms on a single problem can lead to different performance but can&rsquo;t tell why one algorithm better than another one, this could be called the Kaggle curse, winners tend to use overly complex models that are actually not useful in real life.</li>
+<li>Looking at different class of algorithms on a single problem can lead to different performance but can't tell why one algorithm better than another one, this could be called the Kaggle curse, winners tend to use overly complex models that are actually not useful in real life.</li>
 <li>Author makes point about biases issues that can come from many factors and algorithm can be opaque e.g. huskies detector was in fact detecting snowy backgrounds…</li>
 <li>Use of distributions can help reduce errors, test exist to know if assumed distribution is  OK to use</li>
 <li>95% confidence interval does NOT mean a 95% probability that true value is in interval</li>
@@ -126,19 +120,22 @@
 <li>Significance testing</li>
 <li>P-value is NOT probability is null being true!</li>
 <li>Things that go wrong in stats
-
 <ul>
 <li>Should not test until significance is attained</li>
 <li>Exploratory (finding interesting hypothesis) vs. confirmatory (actually claiming findings by replicating earlier results) should be different tasks of novelty bias</li>
 <li>Way to report important (10% lower PB with gene vs. 90% population at risk of high BP du to defect…)</li>
-<li>Hard to avoid bad practices</li>
+<li>Hard to avoid bad practices
+<ul>
 <li>35% report unexpected results as predicted effects</li>
 <li>58% carry on collection data after significance test</li>
 <li>67% do not report all results</li>
 <li>94% do at least on the three above!</li>
+</ul>
+</li>
 <li>ME &ndash;&gt; open data, open science, pre-registration, OSF</li>
 <li>BEM + precognition great example of bad science</li>
-</ul></li>
+</ul>
+</li>
 <li>Last chapter about good practices, check p-value distribution…
 Mention new tool MRP Multi-level regression and post-signification &ndash;&gt; small samples, many areas, between areas variability with hierarchical modelling, goof for polls estimations.</li>
 </ul>
@@ -168,7 +165,7 @@ Mention new tool MRP Multi-level regression and post-signification &ndash;&gt; s
 
 </main>
     <footer>
-        <h6>Copyright &copy; Wallace Hobbes. All rights reserved. | <a href="https://whobbes.com" title="whobbes.com">whobbes.com</a> |
+        <h6>Copyright © Wallace Hobbes. All rights reserved. | <a href="https://whobbes.com" title="whobbes.com">whobbes.com</a> |
             <a href="https://whobbes.com/blog/index.xml">Subscribe</a></h6>
     </footer>
 </div>

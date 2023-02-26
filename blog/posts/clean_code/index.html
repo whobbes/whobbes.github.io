@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="The HTML5 Herald" />
   <meta name="author" content="Wallace" />
-  <meta name="generator" content="Hugo 0.59.1" />
+  <meta name="generator" content="Hugo 0.60.1" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
@@ -88,23 +88,19 @@
     <img src="https://whobbes.com/blog/images/book_clean_code.jpg" width="50"/> 
 </figure>
 
-
 <p>I went through this book as other studied it as part of a regular meeting. Its tone is very similar to the pragmatic programmer and written in 2008 by an Extreme programming guru nicknamed Uncle Bob. While it contains lots of insights and tips and tricks about programming in general its tone is also quite dogmatic at times and even arbitrary when the author does not make a clear effort at explaining rational behind rules. The reader is left to blindly trust the guru or go and try it himself. In the end, this is probably the main point of the book, here is how I code after quite a big mileage. Here are the things to look for, smells, and some approaches I use when figuring out the best way to code. Now go coding and see how this pans out for you. To sum up, it is a refreshing book that gives good ideas about what to focus on when programming to hopefully progress towards writing better code faster; a must read for serious coders.</p>
-
 <p><kbd>76%</kbd></p>
-
-<hr />
-
+<hr>
 <ul>
-<li><p>Intro</p>
-
+<li>
+<p>Intro</p>
 <ul>
 <li>Author Uncle Bob father-ish of SOLID principles</li>
 <li>Only about object-oriented programming</li>
-</ul></li>
-
-<li><p>Punchlines</p>
-
+</ul>
+</li>
+<li>
+<p>Punchlines</p>
 <ul>
 <li>Read to write code ration is 10-to-1 so write readable code</li>
 <li>Coding standards automatic in IDE i.e. format, lint, compiler rules</li>
@@ -114,27 +110,40 @@
 <li>Minimal comments, only docstrings for externally consumed API</li>
 <li>Wrap 3rd party code to be independent, hide interface boundaries</li>
 <li>Writing test for third party lib is good way to learn how to use it</li>
-<li>Functions are less than 20 lines long, have less than 3 arguments and do one thing</li>
+<li>Functions are less than 20 lines long, have less than 3 arguments and do one thing
+<ul>
 <li>Report.appendfoorter() better than appendFooter(report)</li>
-</ul></li>
-
-<li><p>List of Important code smells</p>
-
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>List of Important code smells</p>
 <ul>
 <li>Commented-out Code!</li>
-<li>Comments</li>
+<li>Comments
+<ul>
 <li>Inappropriate information</li>
 <li>Obsolete</li>
 <li>Redundant</li>
-<li>Environment</li>
+</ul>
+</li>
+<li>Environment
+<ul>
 <li>Build require more than one step</li>
 <li>Test require more than one step</li>
-<li>Functions</li>
+</ul>
+</li>
+<li>Functions
+<ul>
 <li>Too many arguments</li>
 <li>Output arguments</li>
 <li>Flag arguments</li>
 <li>Dead function</li>
-<li>General</li>
+</ul>
+</li>
+<li>General
+<ul>
 <li>Obvious behaviour not implemented</li>
 <li>Incorrect behaviour at the boundaries</li>
 <li>Overridden safeties</li>
@@ -155,15 +164,18 @@
 <li>Avoid negative conditional</li>
 <li>Hidden temporal coupling</li>
 <li>Keep configurable Data at high levels</li>
-</ul></li>
-
-<li><p>Concurrency</p>
-
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Concurrency</p>
 <ul>
 <li>Server-side lock, not client-side!</li>
 <li>Good way to avoid locks is to sort resources and always lock in order</li>
 <li>Very hard to write tests and make them fail if conditions happen 1 in a trillion time as path of execution are many. One can use specialized tools and also run tests continuously.</li>
-</ul></li>
+</ul>
+</li>
 </ul>
 
 </article>
@@ -191,7 +203,7 @@
 
 </main>
     <footer>
-        <h6>Copyright &copy; Wallace Hobbes. All rights reserved. | <a href="https://whobbes.com" title="whobbes.com">whobbes.com</a> |
+        <h6>Copyright © Wallace Hobbes. All rights reserved. | <a href="https://whobbes.com" title="whobbes.com">whobbes.com</a> |
             <a href="https://whobbes.com/blog/index.xml">Subscribe</a></h6>
     </footer>
 </div>
