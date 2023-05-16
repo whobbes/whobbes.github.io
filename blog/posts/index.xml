@@ -1,34 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Whobbes.com/blog</title>
-    <link>https://whobbes.com/blog/posts/</link>
+    <link>http://whobbes.com/blog/posts/</link>
     <description>Recent content in Posts on Whobbes.com/blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright &amp;copy; Wallace Hobbes. All rights reserved.</copyright>
     <lastBuildDate>Sun, 26 Feb 2023 01:26:31 +0000</lastBuildDate>
     
-	<atom:link href="https://whobbes.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://whobbes.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Books of 2022</title>
-      <link>https://whobbes.com/blog/posts/books_2022/</link>
+      <link>http://whobbes.com/blog/posts/books_2022/</link>
       <pubDate>Sun, 26 Feb 2023 01:26:31 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/books_2022/</guid>
-      <description>Here is last year&#39;s bookshelf, quite a few topics explored, moslty linked with my development in management, coaching and product.</description>
+      <guid>http://whobbes.com/blog/posts/books_2022/</guid>
+      <description>&lt;figure class=&#34;sml&#34;&gt;
+    &lt;img src=&#34;http://whobbes.com/blog/images/2022_in_books.jpg&#34; width=&#34;50&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Last year I explored management, coaching, product management and climate change.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Why we sleep</title>
-      <link>https://whobbes.com/blog/posts/why_we_sleep/</link>
+      <link>http://whobbes.com/blog/posts/why_we_sleep/</link>
       <pubDate>Sun, 07 Mar 2021 09:34:45 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/why_we_sleep/</guid>
+      <guid>http://whobbes.com/blog/posts/why_we_sleep/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_why_we_sleep.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_why_we_sleep.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;If all animals need to slumber daily in an apparent state of coma, unable to use this time for other tasks, there must be good reasons. As we will see sleep impact many if not all biological processes of the body. This book by Mr Walker is a real eye-opener on what is sleep, what happen when we neglect it and how much better off we are with a good sleep hygiene.&lt;/p&gt;
@@ -38,12 +42,12 @@
     
     <item>
       <title>Letters from a Stoic</title>
-      <link>https://whobbes.com/blog/posts/letters_from_stoic/</link>
+      <link>http://whobbes.com/blog/posts/letters_from_stoic/</link>
       <pubDate>Fri, 23 Oct 2020 12:50:17 +0100</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/letters_from_stoic/</guid>
+      <guid>http://whobbes.com/blog/posts/letters_from_stoic/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_letters_from_stoic.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_letters_from_stoic.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Seneca, roman philosopher, wrote a series of letters towards the end of his life. They present his teachings
@@ -55,12 +59,12 @@ about the use of the latest gadgets, stand against all forms of slavery and for 
     
     <item>
       <title>The Invention of Science</title>
-      <link>https://whobbes.com/blog/posts/invention_of_science/</link>
+      <link>http://whobbes.com/blog/posts/invention_of_science/</link>
       <pubDate>Sun, 24 May 2020 14:06:33 +0100</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/invention_of_science/</guid>
+      <guid>http://whobbes.com/blog/posts/invention_of_science/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_invention_of_science.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_invention_of_science.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Science is one of the first human enterprise to value an unpersonal, disinterested view of the world which push for radical openness and ultimately extending our knowledge of the universe.
@@ -70,12 +74,12 @@ David Wootton, professor of History at the University of York, wrote extensively
     
     <item>
       <title>The Science of Storytelling</title>
-      <link>https://whobbes.com/blog/posts/science_storytelling/</link>
+      <link>http://whobbes.com/blog/posts/science_storytelling/</link>
       <pubDate>Sun, 26 Apr 2020 15:20:57 +0100</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/science_storytelling/</guid>
+      <guid>http://whobbes.com/blog/posts/science_storytelling/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_science_storytelling.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_science_storytelling.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;A penguin and a plane. Our brain cannot be stopped in its automatic construction of a setting and story. In the Science of storytelling (Will Storr, 2019) the author starts by dissecting stories in order to understand their use. Doing so leads to exploring history, our brains and what characters are made of. Not only did I learn more about how to deliver an impactful message but I also got to understand more about myself. In the end, the story is realized as Mr. Borr tell us that &amp;ldquo;the Golden rule of stories is presenting characters trying to figure who they are.&amp;rdquo;&lt;/p&gt;
@@ -84,12 +88,12 @@ David Wootton, professor of History at the University of York, wrote extensively
     
     <item>
       <title>Floating</title>
-      <link>https://whobbes.com/blog/posts/floating/</link>
+      <link>http://whobbes.com/blog/posts/floating/</link>
       <pubDate>Wed, 05 Feb 2020 22:03:19 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/floating/</guid>
+      <guid>http://whobbes.com/blog/posts/floating/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/dark_pool.jpg&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/dark_pool.jpg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;As an meditation enthusiast, I thought since a long time that sensory deprivation was something to try, and recently had an opportunity to give it a go.&lt;/p&gt;</description>
@@ -97,12 +101,12 @@ David Wootton, professor of History at the University of York, wrote extensively
     
     <item>
       <title>The Art of Statistics</title>
-      <link>https://whobbes.com/blog/posts/art_of_statistics/</link>
+      <link>http://whobbes.com/blog/posts/art_of_statistics/</link>
       <pubDate>Thu, 26 Dec 2019 22:23:16 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/art_of_statistics/</guid>
+      <guid>http://whobbes.com/blog/posts/art_of_statistics/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_art_of_statistics.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_art_of_statistics.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Unfortunately, our brains have not yet adapted to our modern times, and probably never will. Our culture and livelihood are changing faster than the seasons and we need to make sense of our societies in order to understand where to go from here. Computers can crunch numbers ever so fast, and it is now down to the individual to know what to ask. This is where statistics come in handy, even if they are often portrayed as complex.&lt;/p&gt;
@@ -113,12 +117,12 @@ David Wootton, professor of History at the University of York, wrote extensively
     
     <item>
       <title>How bad are bananas?</title>
-      <link>https://whobbes.com/blog/posts/how_bad_bananas/</link>
+      <link>http://whobbes.com/blog/posts/how_bad_bananas/</link>
       <pubDate>Thu, 26 Dec 2019 13:56:23 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/how_bad_bananas/</guid>
+      <guid>http://whobbes.com/blog/posts/how_bad_bananas/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_how_bad_bananas.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_how_bad_bananas.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;The first step in order to change is to realize the need for change. Thinking about carbon footprint for a little while,  I started making minute changes last year largely based on randomly gathered ideas I had about what is carbon efficient or not.&lt;/p&gt;
@@ -130,12 +134,12 @@ David Wootton, professor of History at the University of York, wrote extensively
     
     <item>
       <title>Clean code</title>
-      <link>https://whobbes.com/blog/posts/clean_code/</link>
+      <link>http://whobbes.com/blog/posts/clean_code/</link>
       <pubDate>Sun, 22 Dec 2019 22:14:08 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/clean_code/</guid>
+      <guid>http://whobbes.com/blog/posts/clean_code/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_clean_code.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_clean_code.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;I went through this book as other studied it as part of a regular meeting. Its tone is very similar to the pragmatic programmer and written in 2008 by an Extreme programming guru nicknamed Uncle Bob. While it contains lots of insights and tips and tricks about programming in general its tone is also quite dogmatic at times and even arbitrary when the author does not make a clear effort at explaining rational behind rules. The reader is left to blindly trust the guru or go and try it himself. In the end, this is probably the main point of the book, here is how I code after quite a big mileage. Here are the things to look for, smells, and some approaches I use when figuring out the best way to code. Now go coding and see how this pans out for you. To sum up, it is a refreshing book that gives good ideas about what to focus on when programming to hopefully progress towards writing better code faster; a must read for serious coders.&lt;/p&gt;
@@ -144,12 +148,12 @@ David Wootton, professor of History at the University of York, wrote extensively
     
     <item>
       <title>Labyrinths</title>
-      <link>https://whobbes.com/blog/posts/labyrinths/</link>
+      <link>http://whobbes.com/blog/posts/labyrinths/</link>
       <pubDate>Sun, 22 Dec 2019 10:10:52 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/labyrinths/</guid>
+      <guid>http://whobbes.com/blog/posts/labyrinths/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_labyrinths.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_labyrinths.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;&amp;ldquo;I do not know which of us has written this page.&amp;rdquo; By those words the author finishes the simply named Borges and I parable  that illustrate so well what Labyrinths  is all about. Borges writes short, efficient texts with very powerful ideas and reflections. This meandering book first published in 1962, made of short stories, essays and parables explores the complexity of the mind, reality and the universe through the central theme of infinity.&lt;/p&gt;
@@ -158,12 +162,12 @@ David Wootton, professor of History at the University of York, wrote extensively
     
     <item>
       <title>Deep Learning with Python</title>
-      <link>https://whobbes.com/blog/posts/deep_learning_with_python/</link>
+      <link>http://whobbes.com/blog/posts/deep_learning_with_python/</link>
       <pubDate>Fri, 06 Dec 2019 20:45:13 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/deep_learning_with_python/</guid>
+      <guid>http://whobbes.com/blog/posts/deep_learning_with_python/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_deep_learning_with_python.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_deep_learning_with_python.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Book by the author of Keras, F. Chollet about what is deep learning how to apply it to common tasks. Very well written and easy to follow, it focuses on practical teaching rather than theory. I read it two years ago and as the field is moving very fast content is a bit dated, best to wait for the second edition in Q2 2020.&lt;/p&gt;
@@ -172,12 +176,12 @@ David Wootton, professor of History at the University of York, wrote extensively
     
     <item>
       <title>Parenting</title>
-      <link>https://whobbes.com/blog/posts/parenting/</link>
+      <link>http://whobbes.com/blog/posts/parenting/</link>
       <pubDate>Wed, 27 Nov 2019 22:19:21 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/parenting/</guid>
+      <guid>http://whobbes.com/blog/posts/parenting/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_parenting.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_parenting.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;This orange volume with a name too long to be of any use beside marketing, actually contains some valuable insights. Its main subject is about parenting but many ideas expressed are applicable in much wider context; a bit heavy in anecdotal stories.&lt;/p&gt;
@@ -187,12 +191,12 @@ David Wootton, professor of History at the University of York, wrote extensively
     
     <item>
       <title>21 Lessons for the 21st Century</title>
-      <link>https://whobbes.com/blog/posts/21_lessons_21_century/</link>
+      <link>http://whobbes.com/blog/posts/21_lessons_21_century/</link>
       <pubDate>Fri, 22 Nov 2019 22:17:14 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/21_lessons_21_century/</guid>
+      <guid>http://whobbes.com/blog/posts/21_lessons_21_century/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_21_lessons_21_century.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_21_lessons_21_century.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Yuval Noah Harari was famous for  Sapiens about the past, then Homo Deus about the future and now focus on the present.&lt;/p&gt;
@@ -203,12 +207,12 @@ David Wootton, professor of History at the University of York, wrote extensively
     
     <item>
       <title>Drive</title>
-      <link>https://whobbes.com/blog/posts/drive/</link>
+      <link>http://whobbes.com/blog/posts/drive/</link>
       <pubDate>Fri, 15 Nov 2019 22:22:35 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/drive/</guid>
+      <guid>http://whobbes.com/blog/posts/drive/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_drive.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_drive.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Book by Daniel H. Pink on motivation. It is a bit pop science, yet the ideas are powerful. It describes very well the recent shift in work paradigm that is happening in the tech industry. It helps focusing on what is important and carving a way to leading a fullfilling life.&lt;/p&gt;
@@ -217,12 +221,12 @@ David Wootton, professor of History at the University of York, wrote extensively
     
     <item>
       <title>The Design of Everyday Things</title>
-      <link>https://whobbes.com/blog/posts/design_everyday_things/</link>
+      <link>http://whobbes.com/blog/posts/design_everyday_things/</link>
       <pubDate>Sun, 04 Aug 2019 12:37:02 +0100</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/design_everyday_things/</guid>
+      <guid>http://whobbes.com/blog/posts/design_everyday_things/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_design_everyday_things.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_design_everyday_things.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;This book by Donald A. Norman is part of the classics of design with a first edition in 1988 and a updated version in 2013.&lt;/p&gt;
@@ -233,12 +237,12 @@ David Wootton, professor of History at the University of York, wrote extensively
     
     <item>
       <title>The Pragmatic Programmer</title>
-      <link>https://whobbes.com/blog/posts/the_pragmatic_programmer/</link>
+      <link>http://whobbes.com/blog/posts/the_pragmatic_programmer/</link>
       <pubDate>Sat, 13 Apr 2019 13:21:30 +0100</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/the_pragmatic_programmer/</guid>
+      <guid>http://whobbes.com/blog/posts/the_pragmatic_programmer/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_pragmatic_programmer.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_pragmatic_programmer.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Book by Andy Hunt and Dave Thomas about programming written in 1999 and part of the classics of CS. It contains some good ideas, some obvious and some outdated. Overall very good, no ground-breaking but good reminder to focus on value and quality.&lt;/p&gt;
@@ -247,12 +251,12 @@ David Wootton, professor of History at the University of York, wrote extensively
     
     <item>
       <title>The Three-Body Problem</title>
-      <link>https://whobbes.com/blog/posts/three_body_problem/</link>
+      <link>http://whobbes.com/blog/posts/three_body_problem/</link>
       <pubDate>Sun, 03 Mar 2019 17:56:24 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/three_body_problem/</guid>
+      <guid>http://whobbes.com/blog/posts/three_body_problem/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_three_body_problem.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_three_body_problem.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Amazing Hard Sci-fi trilogy by Liu Cixin with many original and though-provoking concepts. Book one focus on a detail of the universe where book two then three open up a lot the field of view while the whole stay nicely connected.
@@ -263,12 +267,12 @@ Inspiring possible future, based on plausible advances in Technology and Science
     
     <item>
       <title>Zen And The Art of Motorcycle Maintenance</title>
-      <link>https://whobbes.com/blog/posts/zen_and_motorcycle/</link>
+      <link>http://whobbes.com/blog/posts/zen_and_motorcycle/</link>
       <pubDate>Sat, 02 Feb 2019 11:58:50 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/zen_and_motorcycle/</guid>
+      <guid>http://whobbes.com/blog/posts/zen_and_motorcycle/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_zen_and_the_art_of_motorcycle_maintenance.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_zen_and_the_art_of_motorcycle_maintenance.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Book by Robert Pirsig, written in 1968. It became a best-seller very quickly and seen as a book that carries culture of his time.&lt;/p&gt;
@@ -279,12 +283,12 @@ Inspiring possible future, based on plausible advances in Technology and Science
     
     <item>
       <title>How to create a mind</title>
-      <link>https://whobbes.com/blog/posts/how_to_create_a_mind/</link>
+      <link>http://whobbes.com/blog/posts/how_to_create_a_mind/</link>
       <pubDate>Wed, 03 Oct 2018 21:31:57 +0100</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/how_to_create_a_mind/</guid>
+      <guid>http://whobbes.com/blog/posts/how_to_create_a_mind/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_how_to_create_a_mind.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_how_to_create_a_mind.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Book written in 2012  by Ray Kurzweil famous futurist but also CS engineer.
@@ -294,12 +298,12 @@ Its main subject is how we could create a machine that replicate our brain, and 
     
     <item>
       <title>Willpower</title>
-      <link>https://whobbes.com/blog/posts/willpower/</link>
+      <link>http://whobbes.com/blog/posts/willpower/</link>
       <pubDate>Thu, 27 Sep 2018 21:01:12 +0100</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/willpower/</guid>
+      <guid>http://whobbes.com/blog/posts/willpower/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_willpower.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_willpower.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Book by R. Baumeister and J. Tirerney about their research on willpower. Explore what is willpower and how to best use it. Gives good advice on the counterintuitive nature of it. Very easy and enjoyable to read. Feels a bit like light science at times i.e. easy conclusions from small papers.&lt;/p&gt;
@@ -308,12 +312,12 @@ Its main subject is how we could create a machine that replicate our brain, and 
     
     <item>
       <title>The Golden Age</title>
-      <link>https://whobbes.com/blog/posts/the_golden_age/</link>
+      <link>http://whobbes.com/blog/posts/the_golden_age/</link>
       <pubDate>Fri, 29 Jun 2018 21:07:01 +0200</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/the_golden_age/</guid>
+      <guid>http://whobbes.com/blog/posts/the_golden_age/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_the_golden_age.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_the_golden_age.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Science fiction book by John C Wright. The universe and postulate are very interesting the storyline a bit less so. Good but not great.&lt;/p&gt;
@@ -322,12 +326,12 @@ Its main subject is how we could create a machine that replicate our brain, and 
     
     <item>
       <title>Weapons of Maths Destruction</title>
-      <link>https://whobbes.com/blog/posts/weapons_math_destruction/</link>
+      <link>http://whobbes.com/blog/posts/weapons_math_destruction/</link>
       <pubDate>Sat, 03 Feb 2018 21:28:28 +0000</pubDate>
       
-      <guid>https://whobbes.com/blog/posts/weapons_math_destruction/</guid>
+      <guid>http://whobbes.com/blog/posts/weapons_math_destruction/</guid>
       <description>&lt;figure class=&#34;sml&#34;&gt;
-    &lt;img src=&#34;https://whobbes.com/blog/images/book_weapons_maths_destructions.jpg&#34; width=&#34;50&#34;/&gt; 
+    &lt;img src=&#34;http://whobbes.com/blog/images/book_weapons_maths_destructions.jpg&#34; width=&#34;50&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Very good read about the application of Data Science and the potential huge impact it has on our societies. Examples are easy to understand and the stories told interesting. A bit of repetition on the concepts and many different examples are also good to understand that the systems are present everywhere. The tone is kept light and it give motivation to study the field.&lt;/p&gt;
